@@ -7,8 +7,9 @@
 .menu li {
     border-bottom: 4px solid transparent;
     transition: border-color 0.25s;
+    text-decoration: none;
 }
 
 .menu li:hover {
-    border-color: var(--primary-color);
+    color: #e9e6e0a1;
 }
